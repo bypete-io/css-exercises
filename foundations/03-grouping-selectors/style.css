@@ -1,0 +1,13 @@
+.primary, .secondary {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+.primary{
+    background: hsl(0, 0%, 0%);
+    color: white;
+    font-weight: bold;
+}
+
+.secondary {
+    background: hsl(56, 100%, 50%)
+}
